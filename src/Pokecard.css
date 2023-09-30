@@ -1,0 +1,17 @@
+.Pokecard {
+    display: inline-block;
+    width: 175px;
+    background-color: lightcoral;
+    border-radius: 10px;
+    text-align: center;
+    padding: 1em;
+    margin: 1em;
+    font-family: 'Montserrat', sans-serif;
+}
+.Pokecard-title {
+    color: darkgrey;
+    font-weight: bold;
+}
+.Pokecard-data{
+    font-size: 80%;
+}
